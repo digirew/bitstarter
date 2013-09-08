@@ -1,5 +1,5 @@
 .container { 
-  background: url(/media/bg.jpg) no-repeat center bottom fixed; 
+  background: url(https://s3-us-west-2.amazonaws.com/supprly/media/bg.jpg) no-repeat center bottom fixed; 
   -webkit-background-size: contain;
   -moz-background-size: contain;
   -o-background-size: contain;
